@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>{{page.title}} | SEMMES 2023</title>
+  <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- <base href="./semmes/"> -->
+</head>
+
+<body>
+  <section class="cover">
+    <div class="inside">
+      <div class="description">
+        <h1>Semantic Methods for Events and Stories (SEMMES)</h1>
+        <h2>Workshop at <a href="https://2023.eswc-conferences.org/" rel="external" target="_blank">ESWC 2023</a></h2>
+      </div>
+    </div>
+    <nav class="mainNav">
+      <ul>
+        {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %} {% for p in navigation_pages %} {% if p.navigation_weight %}
+        <li>
+          <a href="{{ p.url }}" {% if p.url==page.url %}class="active" {% endif %}>
+            {{ p.title }}
+          </a>
+        </li>
+        {% endif %} {% endfor %}
+      </ul>
+    </nav>
+
+  </section>
+
+  <div class="mainContent">
+    {{ content }}
+  </div>
+  <footer id="appFooter">
+    <div class="footerCont">
+      <div class="projLogoCont">
+        <a href="https://www2023.thewebconf.org/" class="squared" rel="external" target="_blank">
+          <img alt="ESWC 2023" src="https://2023.eswc-conferences.org/wp-content/uploads/2022/10/cropped-logo2023.png">
+        </a>
+        <a href="http://www.eurecom.fr/" rel="external" target="_blank">
+          <img alt="EURECOM" src="img/eurecom.gif">
+        </a>
+        <a href="https://vu.nl/" rel="external" target="_blank">
+          <img alt="VU Amsterdam" src="img/vu-amsterdam.png">
+        </a>
+        <a href="https://www.l3s.de/en" class="squared" rel="external" target="_blank">
+          <img alt="L3S" src="img/l3s.png">
+        </a>
+        <a href="https://www.bsc.es/" rel="external" target="_blank">
+          <img alt="Barcelona Supercomputing Center" src="img/bsc.png">
+        </a>
+      </div>
+	  
+    </div>
+  </footer>
+</body>
+
+</html>
