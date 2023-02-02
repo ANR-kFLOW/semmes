@@ -26,7 +26,7 @@ He got a PhD in Data Science from Sorbonne University in 2019. He is the princip
 
 <section markdown="1">
 
-![Ilaria Tiddi](https://www.muhai.org/templates/yootheme/cache/dd/IMG_0060_Ilaria_Tiddi-ddcd264c.jpeg){: .profile-pic}
+![Ilaria Tiddi](https://www.muhai.org/templates/yootheme/cache/4d/IMG_0060_Ilaria_Tiddi-4dc0d7c4.webp){: .profile-pic}
 ### Ilaria Tiddi
 #### Vrije Universiteit Amsterdam, The Netherlands
 [mail](mailto:i.tiddi@vu.nl) - [website](htthttps://kmitd.github.io/ilaria/)
@@ -57,7 +57,7 @@ Postdoctoral researcher and group leader at the [L3S Research Center](https://ww
 
 <section markdown="1">
 
-![Luc Steels](https://www.muhai.org/templates/yootheme/cache/14/Luc_Steels-14b61685.jpeg){: .profile-pic}
+![Luc Steels](https://www.muhai.org/templates/yootheme/cache/4d/Luc_Steels-4d924863.webp){: .profile-pic}
 ### Luc Steels
 #### Barcelona Supercomputing Center, Spain
 [mail](mailto:steels@arti.vub.ac.be) - [website](https://en.wikipedia.org/wiki/Luc_Steels)
