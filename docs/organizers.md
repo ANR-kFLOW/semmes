@@ -12,7 +12,7 @@ navigation_weight: 5
 
 ![Pasquale Lisena](https://pbs.twimg.com/profile_images/1479474385090142213/t2LttOrX_400x400.jpg){: .profile-pic}
 ### Pasquale Lisena
-#### EURECOM - France
+#### EURECOM, Sophia Antipolis, France
 [mail](mailto:pasquale.lisena@eurecom.fr) - [website](https://github.com/pasqLisena)
 
 <p class="textblock" markdown="1">
