@@ -30,7 +30,7 @@ We welcome the following types of contributions.
 
 We welcome any types of research, resource and application papers, as well as (short only) demonstration submissions.
 
-Submissions must be written in English and formatted in the [CEUR-WS.org proceedings style](https://github.com/yamadharma/ceurart).
+Submissions must be written in English and formatted in the [CEUR-WS.org proceedings style](https://github.com/yamadharma/ceurart), single column format.
 All papers and abstracts have to be submitted electronically via [EasyChair](https://easychair.org/conferences/?conf=semmes2023).
 Each accepted paper needs to be presented by one of the authors, who agrees to register and participate to SEMMES.
 
