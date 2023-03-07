@@ -38,10 +38,10 @@ Each accepted paper needs to be presented by one of the authors, who agrees to r
 
 # Important dates
 
-* Submission deadline: **March 9th, 2023**
-* Notifications: April 13th, 2023
-* Camera-ready version: April 20th, 2023
-* Workshop day: May 28th or 29th, 2023 (half-day TBA)
+* Submission deadline: ~~March 9th~~ **March 16th, 2023** (extended)
+* Notifications: ~~April 13th~~ April 20th, 2023
+* Camera-ready version: ~~April 20th~~ April 30th, 2023
+* Workshop day: **May 29th, 2023** (afternoon)
 
 *All deadlines are 23:59 anywhere on earth (UTC-12).*
 
