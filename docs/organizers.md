@@ -41,7 +41,7 @@ Assistant Professor in Hybrid Intelligence at the [Knowledge in AI (KAI) group](
 
 <section markdown="1">
 
-![Simon Gottschalk](https://www.l3s.de/sites/default/files/styles/thumbnail/public/2022-11/Simon%20-Gottschalk_0.jpg){: .profile-pic}
+![Simon Gottschalk](https://pbs.twimg.com/profile_images/1237868965252096003/prNpAnVC_400x400.jpg){: .profile-pic}
 ### Simon Gottschalk
 #### L3S Research Center, Leibniz Universität Hannover, Germany
 [mail](mailto:gottschalk@l3s.de) - [website](https://www.l3s.de/~gottschalk/)
