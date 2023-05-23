@@ -130,6 +130,7 @@ h1 {
   background-size: cover;
   box-shadow: inset 0 -7px 16px -12px #222;
   margin-bottom: 2em;
+below('m')
 }
 .cover .inside {
   padding: 0 2em;
@@ -137,11 +138,7 @@ h1 {
   max-width: 900px;
   margin: auto;
   color: #0d798f;
-}
-@media only screen and (max-width: 800px) {
-  .cover .inside {
-    flex-direction: column;
-  }
+below('m')
 }
 .cover a {
   color: #fff;
@@ -214,39 +211,18 @@ h1 {
   display: inline-block;
   background: rgba(13,121,143,0.8);
   font-size: 1em;
-}
-@media only screen and (min-width: 500px) {
-  .cover h1 small {
-    font-size: 1.3em;
-  }
-}
-@media only screen and (min-width: 900px) {
-  .cover h1 small {
-    font-size: 2em;
-  }
+above(500px)
+above(900px)
 }
 .cover h2 {
   font-weight: 300;
   color: #fff;
   opacity: 0.9;
 }
-@media only screen and (max-width: 800px) {
-  .cover {
-    text-align: center;
-  }
-}
 .cover .logo {
   width: 25em;
   padding-left: 2em;
-}
-@media only screen and (max-width: 800px) {
-  .cover .logo {
-    max-width: 8em;
-    max-height: 8em;
-    width: 70vw;
-    height: 70vw;
-    margin-top: 2em;
-  }
+below('m')
 }
 .cover .logo img {
   max-width: 100%;
@@ -333,16 +309,6 @@ h1 {
   border: 1px solid #a7a7a7;
   width: 80px;
 }
-@media only screen and (min-width: 600px) {
-  .textblock {
-    margin-left: 99px;
-  }
-}
-@media only screen and (max-width: 600px) {
-  .textblock {
-    clear: both;
-  }
-}
 .mainContent {
   max-width: 900px;
   padding: 1em;
@@ -398,4 +364,16 @@ table em {
   padding: 0.5em;
   border: 1px solid rgba(13,121,143,0.5);
 }
-/*# sourceMappingURL=styles.css.map */
+.program table em {
+  color: #555;
+}
+.program td {
+  vertical-align: top;
+}
+.program span {
+  display: list-item;
+  margin-left: 3em;
+}
+.program a {
+  text-decoration: underline;
+}

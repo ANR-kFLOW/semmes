@@ -7,7 +7,7 @@ navigation_weight: 1
 
 <aside class="news" markdown="1">
 
-Deadline extension for the [**Call for Paper**](call.html): 16/03/2023!
+The [**program**](program.html) is out!
 
 </aside>
 
@@ -22,6 +22,6 @@ The aim of SEMMES is to offer an opportunity to discuss the challenges related t
 * Submission deadline: ~~March 9th~~ **March 16th, 2023** (extended)
 * Notifications: ~~April 13th~~ April 20th, 2023
 * Camera-ready version: ~~April 20th~~ April 30th, 2023
-* Workshop day: **May 29th, 2023** (afternoon)
+* Workshop day: **May 29th, 2023** (14:00 EEST)
 
 *All deadlines are 23:59 anywhere on earth (UTC-12).*
