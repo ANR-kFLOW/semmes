@@ -9,7 +9,8 @@ navigation_weight: 5
 # Program
 
 ## Keynote: Video, Narratives and Knowledge Graphs
-### Paul Groth
+### Paul Groth - [Slides](https://drive.google.com/file/d/1N1L9ePbaVGvyKlpEIlnRWf1vLnXUZON0/view?usp=sharing)
+
 
 ![Paul Groth](https://www.uva.nl/binaries/_ht_1627462367096/medium/content/gallery/personen/g/r/01-groth-paul-hoogleraar-fnwi-foto.gillissen0gmail.com-img_4578.jpg
 ){: .big-pic}
@@ -19,7 +20,6 @@ navigation_weight: 5
 If you watch YouTube, you know the power of a good story. The dramatically lower cost of video capture has led to more stories but also its increasing importance as a tool of knowledge capture. In this talk, I talk about our work on extracting knowledge graphs from video. I then discuss both the challenge of narrative with respect to KG extraction but also the potential opportunities that narrative provides for the co-creation of knowledge.
 
 **_About the speaker_**: Paul Groth is Professor of Algorithmic Data Science at the University of Amsterdam where he leads the Intelligent Data Engineering Lab (INDElab). Paul is also scientific director of the UvA’s Data Science Center. His research focuses on intelligent systems for dealing with large amounts of diverse contextualized knowledge.
-
 
 
 ## Workshop Schedule
