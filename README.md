@@ -6,7 +6,7 @@ Workshop at [ESWC 2023](https://2023.eswc-conferences.org/).
 
 ```
 cd docs
-jekyll serve
+bundle exec jekyll serve --open-url --livereload
 ```
 
 To re-compute CSS

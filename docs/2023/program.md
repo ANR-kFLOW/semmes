@@ -1,6 +1,7 @@
 ---
 title: Program
-layout: default
+layout: 2023
+year: 2023
 
 navigation_weight: 5
 
