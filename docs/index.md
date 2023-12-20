@@ -20,9 +20,9 @@ The aim of the **2nd edition** of this workshop on Semantic Methods for Events a
 
 # Important dates
 
-* Submission deadline: **March 7th, 2023**
-* Notifications: April 4th, 2023
-* Camera-ready version: April 18th, 2023
-* Workshop day: **May 26th or 27th, 2023** (half-day, TBA)
+* Submission deadline: **March 7th, 2024**
+* Notifications: April 4th, 2024
+* Camera-ready version: April 18th, 2024
+* Workshop day: **May 26th or 27th, 2024** (half-day, TBA)
 
 *All deadlines are 23:59 anywhere on earth (UTC-12).*
