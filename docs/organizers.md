@@ -46,7 +46,7 @@ Postdoctoral researcher and group leader at the [L3S Research Center](https://ww
 ### Inès Blin
 #### Sony Computer Science Laboratories-Paris, France - VU Amsterdam, The Netherlands
 
-[mail](mailto:ines.blin@sony.com) - [website](https://csl.sony.fr/members/) - [website](https://lr.cs.vu.nl/about/people)
+[mail](mailto:i.blin@vu.nl) - [website](i.blin@vu.nl )
 
 <p class="textblock" markdown="1">
 
