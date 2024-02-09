@@ -13,8 +13,7 @@ navigation_weight: 5
 ### Paul Groth - [Slides](https://drive.google.com/file/d/1N1L9ePbaVGvyKlpEIlnRWf1vLnXUZON0/view?usp=sharing)
 
 
-![Paul Groth](https://www.uva.nl/binaries/_ht_1627462367096/medium/content/gallery/personen/g/r/01-groth-paul-hoogleraar-fnwi-foto.gillissen0gmail.com-img_4578.jpg
-){: .big-pic}
+![Paul Groth](https://www.knowledgegraph.tech/wp-content/uploads/2020/03/headshot-uva-small-e1585898167773.jpeg){: .big-pic}
 
 
 
