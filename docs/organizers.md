@@ -56,7 +56,16 @@ Inès Blin is an Assistant Researcher at the Sony Computer Science Laboratories 
 
 </section>
 
-
 # Program Committee
 
-TBA
+* Sara Abdollahi, L3S Research Center, Germany
+* Youssra Rebboud, EURECOM, France
+* Nathalie Hernandez, IRIT, France
+* Ricardo Usbeck, Leuphana University Lüneburg, Germany
+* Sara Tonelli, Fondazione Bruno Kessler, Italy
+* Luc Steels, University of Brussels, Belgium
+* Daniel Schwabe, Dept. of Informatics, PUC-Rio, Brazil
+* Ilaria Tiddi, Vrije Universiteit Amsterdam, Netherlands
+* Junbo Huang, University of Hamburg, Germany
+* Alba Catalina Morales Tirado, The Open University, UK
+* Marieke van Erp, KNAW Humanities Cluster, Netherlands

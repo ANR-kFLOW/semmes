@@ -20,7 +20,7 @@ The aim of the **2nd edition** of this workshop on Semantic Methods for Events a
 
 # Important dates
 
-* Submission deadline: **March 7th, 2024**
+* Submission deadline: ~~March 7th, 2024~~ **March 14th, 2024** (extended)
 * Notifications: April 4th, 2024
 * Camera-ready version: April 18th, 2024
 * Workshop day: **May 26th or 27th, 2024** (half-day, TBA)
