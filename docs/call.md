@@ -42,8 +42,8 @@ Each accepted paper needs to be presented by one of the authors, who agrees to r
 
 * Submission deadline: ~~March 7th, 2024~~ **March 14th, 2024** (extended)
 * Notifications: April 4th, 2024
-* Camera-ready version: April 18th, 2024
-* Workshop day: **May 26th or 27th, 2024** (half-day, TBA)
+* Camera-ready version: April 25th, 2024
+* Workshop day: **May 27th, 2024 - 9:00 - 12:30**
 
 *All deadlines are 23:59 anywhere on earth (UTC-12).*
 
