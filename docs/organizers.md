@@ -7,7 +7,7 @@ navigation_weight: 5
 
 ---
 
-# Worskhop Organizers
+# Workshop Organizers
 
 <section markdown="1">
 
