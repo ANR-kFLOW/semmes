@@ -6,11 +6,11 @@ year: 2024
 navigation_weight: 1
 ---
 
-<!-- <aside class="news" markdown="1">
+ <aside class="news" markdown="1">
 
 The [**program**](program.html) is out!
 
-</aside> -->
+</aside>
 
 # Workshop description 
 
