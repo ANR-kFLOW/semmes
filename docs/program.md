@@ -13,7 +13,7 @@ navigation_weight: 5
 ### Victor de Boer
 
 
-![Victor de Boer](http://www.victordeboer.com/wp-content/uploads/2016/06/Victor-de-Boer-1a-300x287.jpg){: .big-pic}
+![Victor de Boer](https://research.vu.nl/files-asset/14048859/8Z2A4498.jpg?w=320&f=webp){: .big-pic}
 
 
 
