@@ -8,7 +8,7 @@ navigation_weight: 1
 
  <aside class="news" markdown="1">
 
-The [**program**](program.html) is out!
+**"Let the fallen voussoirs of Notre-Dame de Paris speak"** gets the Best paper award! Congrats to the authors!
 
 </aside>
 
