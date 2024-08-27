@@ -6,7 +6,11 @@ year: 2024
 navigation_weight: 1
 ---
 
- <aside class="news" markdown="1">
+<aside class="news" markdown="1">
+
+The proceedings are available as part of [ESWC 2024 Joint Workshops proceedings](https://ceur-ws.org/Vol-3749/) by Ceurs.
+</aside>
+<aside class="news" markdown="1">
 
 **"Let the fallen voussoirs of Notre-Dame de Paris speak"** gets the Best paper award! Congrats to the authors!
 

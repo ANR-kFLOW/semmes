@@ -9,6 +9,8 @@ navigation_weight: 5
 
 # Program
 
+Proceedings: [ESWC 2024 Joint Workshops proceedings](https://ceur-ws.org/Vol-3749/)
+
 ## Keynote: More than one side to every story
 ### Victor de Boer - [Slides](papers2024/VictorSemmesKeynote.pdf)
 
